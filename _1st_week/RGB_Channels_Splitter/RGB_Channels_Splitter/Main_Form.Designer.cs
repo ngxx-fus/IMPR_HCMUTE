@@ -59,14 +59,14 @@
             // 
             textBox1.Location = new Point(28, 36);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(276, 23);
+            textBox1.Size = new Size(383, 23);
             textBox1.TabIndex = 1;
             textBox1.Text = "Enter path to an image!";
             textBox1.TextChanged += textBox1_TextChanged;
             // 
             // load_button
             // 
-            load_button.Location = new Point(310, 36);
+            load_button.Location = new Point(417, 36);
             load_button.Name = "load_button";
             load_button.Size = new Size(75, 23);
             load_button.TabIndex = 2;
@@ -81,7 +81,6 @@
             original_picture_box.Size = new Size(276, 222);
             original_picture_box.TabIndex = 3;
             original_picture_box.TabStop = false;
-            original_picture_box.Click += original_picture_box_Click;
             // 
             // red_channel_picture_box
             // 

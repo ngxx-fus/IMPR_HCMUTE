@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RGB_Channels_Splitter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff71121e96e57809661e0be81179c7b30211ae30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95ea36e106545add00585ea901810053d99b112c")]
 [assembly: System.Reflection.AssemblyProductAttribute("RGB_Channels_Splitter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RGB_Channels_Splitter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
