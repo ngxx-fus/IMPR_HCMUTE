@@ -19,3 +19,4 @@ D:\DOC\23-24_HK02\IMPR\_1st_week\RGB_Channels_Splitter\RGB_Channels_Splitter\bin
 D:\DOC\23-24_HK02\IMPR\_1st_week\RGB_Channels_Splitter\RGB_Channels_Splitter\bin\Debug\net8.0-windows\Emgu.CV.Platform.NetCore.dll
 D:\DOC\23-24_HK02\IMPR\_1st_week\RGB_Channels_Splitter\RGB_Channels_Splitter\obj\Debug\net8.0-windows\RGB_Channels_Splitter.csproj.AssemblyReference.cache
 D:\DOC\23-24_HK02\IMPR\_1st_week\RGB_Channels_Splitter\RGB_Channels_Splitter\obj\Debug\net8.0-windows\RGB_Channels_Splitter.csproj.CopyComplete
+D:\DOC\23-24_HK02\IMPR\_1st_week\RGB_Channels_Splitter\RGB_Channels_Splitter\obj\Debug\net8.0-windows\RGB_Channels_Splitter.sourcelink.json

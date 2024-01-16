@@ -81,6 +81,7 @@
             original_picture_box.Size = new Size(276, 222);
             original_picture_box.TabIndex = 3;
             original_picture_box.TabStop = false;
+            original_picture_box.Click += original_picture_box_Click;
             // 
             // red_channel_picture_box
             // 

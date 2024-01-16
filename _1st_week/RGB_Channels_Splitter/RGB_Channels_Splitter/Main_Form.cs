@@ -3,9 +3,9 @@ namespace RGB_Channels_Splitter
     public partial class Main_Form : Form
     {
         public string path_img = @"empty";
-        public Bitmap Original = new Bitmap(1,1), 
-                      Red_Channel = new Bitmap(1, 1), 
-                      Green_Channel = new Bitmap(1, 1), 
+        public Bitmap Origin = new Bitmap(1, 1),
+                      Red_Channel = new Bitmap(1, 1),
+                      Green_Channel = new Bitmap(1, 1),
                       Blue_Channel = new Bitmap(1, 1);
         public float scale_factor = 1;
 
@@ -15,15 +15,15 @@ namespace RGB_Channels_Splitter
         }
         private void split_channel()
         {
-            Red_Channel = new Bitmap(Original.Width,Original.Height);
-            Blue_Channel = new Bitmap(Original.Width, Original.Height);
-            Green_Channel = new Bitmap(Original.Width, Original.Height);
+            Red_Channel = new Bitmap(Origin.Width, Origin.Height);
+            Blue_Channel = new Bitmap(Origin.Width, Origin.Height);
+            Green_Channel = new Bitmap(Origin.Width, Origin.Height);
 
-            for( int x = 0; x < Original.Width; x++ )
+            for (int x = 0; x < Origin.Width; x++)
             {
-                for( int y = 0; y < Original.Height; y++ )
+                for (int y = 0; y < Origin.Height; y++)
                 {
-                    Color pixel = Original.GetPixel( x, y );
+                    Color pixel = Origin.GetPixel(x, y);
 
                     Red_Channel.SetPixel(x, y, Color.FromArgb(pixel.A, pixel.R, 0, 0));
                     Green_Channel.SetPixel(x, y, Color.FromArgb(pixel.A, 0, pixel.G, 0));
@@ -40,8 +40,10 @@ namespace RGB_Channels_Splitter
         {
             load_button.Text = "load";
             load_button.Width = 75;
+
             path_img = textBox1.Text;
-            if( File.Exists(path_img) == false )
+
+            if (File.Exists(path_img) == false ) //check extension is crorrect? (jpg, png, jpeg)
             {
                 load_button.Text = "Loading failed!";
                 load_button.Width = 120;
@@ -53,8 +55,8 @@ namespace RGB_Channels_Splitter
                 load_button.Width = 140;
             }
 
-            Original = new Bitmap(path_img);
-            original_picture_box.Image = Original;
+            Origin = new Bitmap(path_img);
+            original_picture_box.Image = Origin;
             split_channel();
             red_channel_picture_box.Image = Red_Channel;
 
@@ -65,7 +67,7 @@ namespace RGB_Channels_Splitter
 
         private void Label1_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void label2_Click(object sender, EventArgs e)
@@ -79,6 +81,11 @@ namespace RGB_Channels_Splitter
         }
 
         private void Main_Form_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Origin_picture_box_Click(object sender, EventArgs e)
         {
 
         }
