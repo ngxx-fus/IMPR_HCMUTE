@@ -75,15 +75,15 @@ namespace RGB_Channels_Splitter
 
         }
 
-        private void label4_Click(object sender, EventArgs e)
-        {
+        //private void label4_Click(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
-        private void Main_Form_Load(object sender, EventArgs e)
-        {
+        //private void Main_Form_Load(object sender, EventArgs e)
+        //{
 
-        }
+        //}
 
         private void Origin_picture_box_Click(object sender, EventArgs e)
         {

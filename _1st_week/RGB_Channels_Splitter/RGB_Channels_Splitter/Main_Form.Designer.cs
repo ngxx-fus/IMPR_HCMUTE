@@ -147,7 +147,7 @@
             Blue_Label.Size = new Size(35, 15);
             Blue_Label.TabIndex = 10;
             Blue_Label.Text = "Blue:";
-            Blue_Label.Click += label4_Click;
+            //Blue_Label.Click += label4_Click;
             // 
             // Main_Form
             // 
@@ -167,7 +167,7 @@
             Controls.Add(image_path_label);
             Name = "Main_Form";
             Text = "RGB Channels Splitter";
-            Load += Main_Form_Load;
+            //Load += Main_Form_Load;
             ((System.ComponentModel.ISupportInitialize)original_picture_box).EndInit();
             ((System.ComponentModel.ISupportInitialize)red_channel_picture_box).EndInit();
             ((System.ComponentModel.ISupportInitialize)green_channel_picture_box).EndInit();
