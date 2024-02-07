@@ -1,1 +1,0 @@
-"D:/DOC/23-24_HK02/IMPR/lena_color.png"
