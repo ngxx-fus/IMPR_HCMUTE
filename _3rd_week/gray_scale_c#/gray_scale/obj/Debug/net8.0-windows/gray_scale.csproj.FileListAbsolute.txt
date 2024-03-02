@@ -91,9 +91,9 @@ D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windo
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.AssemblyInfo.cs
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.csproj.CoreCompileInputs.cache
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.sourcelink.json
-D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.csproj.CopyComplete
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.dll
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\refint\gray_scale.dll
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.pdb
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.genruntimeconfig.cache
 D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\ref\gray_scale.dll
+D:\DOC\23-24_HK02\IMPR\_3rd_week\gray_scale_c#\gray_scale\obj\Debug\net8.0-windows\gray_scale.csproj.Up2Date
