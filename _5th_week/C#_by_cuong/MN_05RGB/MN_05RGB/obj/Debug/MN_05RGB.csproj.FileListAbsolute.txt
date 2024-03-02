@@ -1,0 +1,78 @@
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe.config
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.xml
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.CopyComplete
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe.config
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.pdb
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.xml
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.AssemblyReference.cache
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Form1.resources
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Properties.Resources.resources
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.GenerateResource.cache
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.CoreCompileInputs.cache
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.Up2Date
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.exe
+C:\Users\BAO HONG\Downloads\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.pdb
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe.config
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.exe
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\MN_05RGB.pdb
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\ZedGraph.xml
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.AssemblyReference.cache
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Form1.resources
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.Properties.Resources.resources
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.GenerateResource.cache
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.CoreCompileInputs.cache
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.csproj.Up2Date
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.exe
+C:\Users\msnp\Desktop\MN_05RGB\MN_05RGB\obj\Debug\MN_05RGB.pdb

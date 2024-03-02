@@ -1,0 +1,52 @@
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\MN_05.exe.config
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\MN_05.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\MN_05.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.csprojAssemblyReference.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.Form1.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.Properties.Resources.resources
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.exe
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.pdb
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\ZedGraph.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\ZedGraph.xml
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\ACER\Documents\Visual Studio 2017\Projects\MN_05\MN_05\obj\Debug\MN_05.csproj.CopyComplete
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\MN_05.exe.config
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\MN_05.exe
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\MN_05.pdb
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\ZedGraph.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\ZedGraph.xml
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.csproj.AssemblyReference.cache
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.Form1.resources
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.Properties.Resources.resources
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.csproj.GenerateResource.cache
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.csproj.CoreCompileInputs.cache
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.csproj.Up2Date
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.exe
+C:\Users\BAO HONG\Downloads\MN_05\MN_05\obj\Debug\MN_05.pdb
